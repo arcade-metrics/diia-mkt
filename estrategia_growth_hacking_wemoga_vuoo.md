@@ -1,6 +1,5 @@
-# Estratégia de Growth Hacking
+# Estratégia de Growth Hacking com IA
 
-Mudança 1
 
 ## Arquitetura e plano de implementação para WEMOGA e VUOO
 
